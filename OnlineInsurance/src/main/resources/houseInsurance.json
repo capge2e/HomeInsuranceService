@@ -1,0 +1,20 @@
+{
+        "hId":1,
+        "insuranceName": "Renter's Insurance",
+        "premium":7000,
+        "sumInsured":2000000,
+        "isCoveredBelongings":"true",
+        "maxbelongingsAmount":90000,
+        "isCoveredHomeStructure":"false",
+        "homeStructureAmount":0
+"client": {
+        "homePolicyId":1,
+        "homePolicyNo": 432,
+        "homePolicyName":"Fire",
+        "clientName":"Raam",
+        "dateOfPurchase":"18-11-2018",
+        "dateOfExpire":"17-09-2022",
+        "isClaimed":"Yes",
+        "claimDate":"16-04-2022"
+  }      
+}
